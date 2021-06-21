@@ -1,0 +1,5 @@
+C:\Users\reeset\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\marcedit_package_builder\secure_shell\bin\Debug\secure_shell.exe.config
+C:\Users\reeset\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\marcedit_package_builder\secure_shell\bin\Debug\secure_shell.exe
+C:\Users\reeset\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\marcedit_package_builder\secure_shell\bin\Debug\secure_shell.pdb
+C:\Users\reeset\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\marcedit_package_builder\secure_shell\obj\Debug\secure_shell.exe
+C:\Users\reeset\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\marcedit_package_builder\secure_shell\obj\Debug\secure_shell.pdb
